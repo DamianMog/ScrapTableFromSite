@@ -24,3 +24,8 @@ pip install requests beautifulsoup4
 ```
 
 All generated files (CSV files, Everything.csv, tables.html, and the img folder with images) will be saved in the **same directory** as the script.
+
+### Example output
+<img alt="" src="images/site.jpg"> </img> 
+<img alt="" src="images/files.jpg"> </img> 
+
